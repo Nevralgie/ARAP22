@@ -48,7 +48,7 @@ $ curl -L \
 
 - $ git add filename
 
-# Verify that the file is in the staging area :
+# Verify that the file is in the staging area and push it :
 
 - $ git status   
 
