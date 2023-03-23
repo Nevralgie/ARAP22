@@ -12,7 +12,7 @@ $ curl -L \
 
   https://api.github.com/user/repos \ 
 
-  -d '{"name":"<yourReponame>","description":"<This is your first repo!>","homepage":"https://github.com","private":false,"is_template":true}'
+  -d '{"name":"yourReponame","description":"<This is your first repo!>","homepage":"https://github.com","private":false,"is_template":true}'
 
 # Create a directory and a file to commit locally using my variables:
 
