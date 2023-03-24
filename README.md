@@ -18,6 +18,8 @@ $ curl -L \
 
 - $ mkdir ARAP22
 
+- $ cd ARAP22
+
 - $ sudo nano readme
 
 - $ git init
