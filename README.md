@@ -26,9 +26,7 @@ $ curl -L \
 
 - $ git commit -m "My first commit" 
 
-- $ git remote add readme 
-
-- $ https://github.com/Nevralgie/ARAP22.git
+- $ git remote add readme https://github.com/Nevralgie/ARAP22.git
 
 - $ git push -u readme main
 
