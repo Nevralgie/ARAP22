@@ -32,7 +32,7 @@ $ curl -L \
 
 # Head to your Github repositories to verify the commit.
 
-# If you wish to modify someone's repo after the owner gives you permissions in 'Collaborators' :
+# If you wish to modify someone's repo after the owner gave you permissions in 'Collaborators' :
 
 - $ git clone https://github.com/yourcollaboratorusername/reponame.git
 
