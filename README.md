@@ -6,7 +6,7 @@ $ curl -L \
 
   -H "Accept: application/vnd.github+json" \ 
 
-  -H "Authorization: Bearer <YOUR-TOKEN>"\ 
+  -H "Authorization: Bearer <yourtoken>"\ 
 
   -H "X-GitHub-Api-Version: 2022-11-28" \ 
 
